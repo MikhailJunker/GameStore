@@ -1,0 +1,8 @@
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\check\BookStore.Client\bin\Debug\netcoreapp3.1\BookStore.Client.deps.json
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\check\BookStore.Client\bin\Debug\netcoreapp3.1\BookStore.Client.dll
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\check\BookStore.Client\bin\Debug\netcoreapp3.1\BookStore.Client.pdb
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\check\BookStore.Client\obj\Debug\netcoreapp3.1\BookStore.Client.AssemblyInfoInputs.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\check\BookStore.Client\obj\Debug\netcoreapp3.1\BookStore.Client.AssemblyInfo.cs
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\check\BookStore.Client\obj\Debug\netcoreapp3.1\BookStore.Client.csproj.CoreCompileInputs.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\check\BookStore.Client\obj\Debug\netcoreapp3.1\BookStore.Client.dll
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\check\BookStore.Client\obj\Debug\netcoreapp3.1\BookStore.Client.pdb

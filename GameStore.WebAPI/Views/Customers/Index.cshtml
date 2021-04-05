@@ -1,0 +1,58 @@
+﻿@model IEnumerable<GameStore.Client.DTO.CustomerDTO>
+
+@{
+    ViewData["Title"] = "Покупатель";
+}
+
+<h1>Покупатель</h1>
+
+<p>
+    <a asp-action="Create">Добавить покупателя</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Имя
+            </th>
+            <th>
+                Фамилия
+            </th>
+            <th>
+                Отчество
+            </th>
+            <th>
+                Адрес
+            </th>
+            <th>
+                Телефон
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MiddleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Addres)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Инфо</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

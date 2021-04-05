@@ -1,0 +1,17 @@
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\bin\Debug\netcoreapp3.1\GameStore.Client.deps.json
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\bin\Debug\netcoreapp3.1\GameStore.Client.dll
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\bin\Debug\netcoreapp3.1\GameStore.Client.pdb
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.csprojAssemblyReference.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.AssemblyInfoInputs.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.AssemblyInfo.cs
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.csproj.CoreCompileInputs.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.dll
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\BookStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.pdb
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\GameStore.Client\bin\Debug\netcoreapp3.1\GameStore.Client.deps.json
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\GameStore.Client\bin\Debug\netcoreapp3.1\GameStore.Client.dll
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\GameStore.Client\bin\Debug\netcoreapp3.1\GameStore.Client.pdb
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\GameStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.AssemblyInfoInputs.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\GameStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.AssemblyInfo.cs
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\GameStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.csproj.CoreCompileInputs.cache
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\GameStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.dll
+C:\Users\dimon\Documents\Visual Studio 2019\Projects\mihail\GameStore.Client\obj\Debug\netcoreapp3.1\GameStore.Client.pdb
